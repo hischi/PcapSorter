@@ -1,7 +1,7 @@
 # PcapSorter
 Sorts PCAP files based on capture time
 
-Usage:
+# Usage:
 PcapSorter.exe -i INPUT_PCAP -o OUTPUT_PCAP -s SORT_WINDOW [-l LOG_LEVEL] [-d] [-j JOBCOUNT]
 ----------------------------------------------------------------------------------------------------------------
   INPUT_PCAP:  path and name to the input PCAP or PCAPNG file or directory.
